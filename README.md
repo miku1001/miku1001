@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ted and I'm a Computer Engineering Student from Polytechnic University of the Philippines - Manila</h2>
-
+<h2 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=30&pause=1000&color=D84C34&width=435&lines=I'm+Ted+Paulo+A.+Feranil;Python+Programmer;Machine+Learning+Engineer" alt="Typing SVG" /></a></h2>h2>
 ###
 
 <div align="center">
