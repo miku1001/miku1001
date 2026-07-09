@@ -24,14 +24,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <span style="display:inline-block;border:2px solid white;border-radius:8px;padding:6px;background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" /></span>
   <img width="30" />
@@ -62,5 +54,11 @@
   <span style="display:inline-block;border:2px solid white;border-radius:8px;padding:6px;background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" /></span>
 </div>
 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miku1001/miku1001/output/pacman-contribution-graph.svg">
+</picture>
 
 
