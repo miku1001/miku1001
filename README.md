@@ -13,66 +13,38 @@
 ###
 
 <div align="center">
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  </span>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.simpleicons.org/langchain" height="50" alt="langchain logo" />
-  </span>
+  <img src="https://cdn.simpleicons.org/langchain" height="30" alt="langchain logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
-  <span style="display: inline-block; border: 2px solid white; border-radius: 8px; padding: 6px; background: #1a1a1a;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/teddd.feranil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
